@@ -1,0 +1,5 @@
+gensim
+faiss-cpu
+pinecone-client
+lark
+chromadb
